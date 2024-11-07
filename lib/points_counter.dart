@@ -45,7 +45,7 @@ class _CountsState extends State<Counts> {
                         setState(() {
                           countA +=3;
                         });
-                      } ,child: Text("Add 3 points" ,style: TextStyle(fontSize: 25),),color: Colors.orange,),
+                      } ,child: Text("Add 3 pointss" ,style: TextStyle(fontSize: 25),),color: Colors.orange,),
                     ],
                   ),
                 ),
